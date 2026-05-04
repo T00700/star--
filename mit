@@ -141,6 +141,8 @@ CCTV中文国际,https://www.youtube.com/watch?v=SdzewdkJa-o
 中天新闻,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://46.38.157.60:53874/proxy/e02b3975691e34b3.m3u8
+中天新闻,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv009/index.m3u8?token=123
+中天新闻,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live409/index.m3u8?token=123
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 TVBS,https://www.youtube.com/watch?v=o_-hSMgpAzs
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -354,6 +356,8 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 寰宇新聞台灣台,http://rihou.cc:555/tv/寰宇台湾
 镜新闻,http://rihou.cc:555/tv/镜新闻
 中天新闻,http://rihou.cc:555/tv/中天新闻
+中天新闻,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv009/index.m3u8?token=123
+中天新闻,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live409/index.m3u8?token=123
 中天新闻,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
@@ -1120,12 +1124,12 @@ TRACE SPORT STARS,http://85.237.207.150:50007/of-4gtv-4gtv077/index.m3u8?proxy=t
 TV5monde,http://85.237.207.150:50007/4gtv-live122/index.m3u8?proxy=true
 
 四季台湾123,#genre#
-寰宇新聞,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live408/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/litv-longturn14/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/of-litv-longturn14/index.m3u8?token=123
-寰宇新聞台灣台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/of-4gtv-4gtv156/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv156/index.m3u8?token=123
+寰宇新聞,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live408/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/litv-longturn14/index.m3u8?token=123
+寰宇新聞台灣台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv156/index.m3u8?token=123
 寰宇財經,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/of-4gtv-4gtv158/index.m3u8?token=123
 鏡電視新聞台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv075/index.m3u8?token=123
 倪珍播新聞,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/nnews-zh/index.m3u8?token=123
-中天新聞台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv009/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live409/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/of-4gtv-4gtv009/index.m3u8?token=123
+中天新聞台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv009/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live409/index.m3u8?token=123
 中視新聞台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live474/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv074/index.m3u8?token=123
 TVBS,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv073/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/media-live073/index.m3u8?token=123
 TVBS新聞台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/media-live072/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv072/index.m3u8?token=123
@@ -1133,9 +1137,9 @@ TVBS歡樂台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv068/
 TVBS精采台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv067/index.m3u8?token=123
 東森新聞,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv152/index.m3u8?token=123
 東森財經新聞,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv153/index.m3u8?token=123
-東森購物一台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/of-4gtv-4gtv102/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live047/index.m3u8?token=123
+東森購物一台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live047/index.m3u8?token=123
+東森購物二台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live046/index.m3u8?token=123
 東森購物三台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live048/index.m3u8?token=123
-東森購物二台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/of-4gtv-4gtv103/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live046/index.m3u8?token=123
 東森購物四台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live049/index.m3u8?token=123
 三立新聞iNEWS,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live089/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/iNEWS/index.m3u8?token=123
 三立綜合台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live207/index.m3u8?token=123
@@ -1159,8 +1163,8 @@ TVBS精采台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv067/
 國會頻道2台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv085/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/of-4gtv-4gtv085/index.m3u8?token=123
 大愛二台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live106/index.m3u8?token=123
 大愛電視,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live007/index.m3u8?token=123
-好消息,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/of-litv-ftv16/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/litv-ftv16/index.m3u8?token=123
-好消息2台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/litv-ftv17/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/of-litv-ftv17/index.m3u8?token=123
+好消息,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/litv-ftv16/index.m3u8?token=123
+好消息2台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/litv-ftv17/index.m3u8?token=123
 亞洲旅遊,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/of-4gtv-4gtv076/index.m3u8?token=123
 尼克兒童頻道,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live105/index.m3u8?token=123
 幸福空間居家台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live206/index.m3u8?token=123
@@ -1175,7 +1179,6 @@ TVBS精采台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv067/
 精選動漫台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live024/index.m3u8?token=123
 經典卡通台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live022/index.m3u8?token=123
 經典電影台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live021/index.m3u8?token=123
-
 視納華仁紀實頻道,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv013/index.m3u8?token=123
 車迷 TV,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live201/index.m3u8?token=123
 達文西頻道,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv018/index.m3u8?token=123
@@ -1212,7 +1215,7 @@ DreamWorks 夢工廠動畫,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/
 DW德國之聲,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live071/index.m3u8?token=123
 ELTA娛樂,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv070/index.m3u8?token=123
 ELTA生活旅遊,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live120/index.m3u8?token=123
-ELTV生活英語台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/of-litv-xinchuang20/index.m3u8?token=123#https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/litv-xinchuang20/index.m3u8?token=123
+ELTV生活英語台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/litv-xinchuang20/index.m3u8?token=123
 FashionTV 時尚頻道,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live085/index.m3u8?token=123
 FRANCE24 英文台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live146/index.m3u8?token=123
 FUN 4K探索娛樂,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live011/index.m3u8?token=123
@@ -1240,7 +1243,6 @@ Smart知識台,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/litv-xinchua
 TRACE Sport Stars,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv077/index.m3u8?token=123
 TRACE Urban,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-4gtv082/index.m3u8?token=123
 TV5MONDE Style,https://cgcwsuulbdid.ap-northeast-1.clawcloudrun.com/4gtv-live122/index.m3u8?token=123
-
 
 四季台湾4GTV,#genre#
 寰宇新聞台,http://clawcloud.goiptv.de5.net/litv.php?id=litv-longturn14&token=xiatianshigou
